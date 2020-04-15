@@ -1,0 +1,7 @@
+notebook
+lightfm
+numpy
+pandas
+os
+sys
+sklearn
