@@ -19,4 +19,6 @@ To install python click on the link:
 * [Mac](https://www.python.org/ftp/python/3.7.4/python-3.7.4-macosx10.9.pkg)
 
 **After Installing python install jupyter notebook by firing this command on terminal.**
-`pip install jupyter`
+* copy requirements.txt to desktop
+* open terminal go to Desktop with help of cd command
+* `pip install -r requirements.txt`
